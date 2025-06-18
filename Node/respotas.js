@@ -77,7 +77,6 @@ console.log('Pares:', pares);
 //d
 const dobrados = _.map(lista, (n) => n * 2);
 console.log('Dobro:', dobrados);
-// → [10, 4, 16, 6, 4, 8, 10, 20, 12]
 
 //e
 const soma = _.sum(lista);
