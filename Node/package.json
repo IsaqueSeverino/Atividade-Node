@@ -1,0 +1,17 @@
+{
+  "name": "atvnode",
+  "version": "1.0.0",
+  "description": "Atividade Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaque",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "date-fns": "^4.1.0",
+    "lodash": "^4.17.21",
+    "mathjs": "^14.5.2"
+  }
+}
